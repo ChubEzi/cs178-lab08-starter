@@ -1,5 +1,6 @@
 # Lab 8A - Ezri Lopez
 # Version 2
+# Here is my 3rd line! 
 # CS178 - Lab 8 Starter
 
 REGION = "us-east-1"
